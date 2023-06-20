@@ -1,0 +1,18 @@
+{
+    "message_id": 28,
+    "from": {
+        "id": 1238866808,
+        "is_bot": false,
+        "first_name": "Mohammad",
+        "username": "Mohammadrkianmehr",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 1238866808,
+        "first_name": "Mohammad",
+        "username": "Mohammadrkianmehr",
+        "type": "private"
+    },
+    "date": 1687249465,
+    "text": "e"
+}
